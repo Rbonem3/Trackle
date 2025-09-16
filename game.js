@@ -89,3 +89,21 @@ function getCountryLon(country) {
 
 document.getElementById('submit-guess').addEventListener('click', handleGuess);
 window.onload = loadTracks;
+
+fetch("tracks.json")
+  .then(response => response.json())
+  .then(data => {
+    tracks = data;
+    loadRandomTrack();
+
+    // Populate datalist for autocomplete
+    const datalist = document.getElementById("countries");
+    const uniqueCountries = [...new Set(tracks.map(track => track.country))];
+    uniqueCountries.sort().forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      datalist.appendChild(option);
+    });
+  });
+
+

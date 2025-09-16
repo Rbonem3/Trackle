@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Silverstone Circuit",
+        "country": "United Kingdom",
+        "lat": 52.0733,
+        "lon": -1.0144,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M50 200 L150 50 L350 50 L450 200 L350 450 L150 450 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Monza Circuit",
+        "country": "Italy",
+        "lat": 45.6156,
+        "lon": 9.2811,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 400 Q250 50 400 400' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Suzuka Circuit",
+        "country": "Japan",
+        "lat": 34.8431,
+        "lon": 136.5411,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M50 250 Q200 50 350 250 Q200 450 50 250' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Interlagos",
+        "country": "Brazil",
+        "lat": -23.7010,
+        "lon": -46.6970,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M150 400 Q250 100 350 400 Q250 300 150 400' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Yas Marina Circuit",
+        "country": "UAE",
+        "lat": 24.4672,
+        "lon": 54.6031,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 100 L400 100 L400 400 L100 400 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Circuit de Spa-Francorchamps",
+        "country": "Belgium",
+        "lat": 50.4372,
+        "lon": 5.9714,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 300 Q200 50 400 200 Q300 450 100 300' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Nürburgring GP-Strecke",
+        "country": "Germany",
+        "lat": 50.3356,
+        "lon": 6.9475,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M150 150 L350 150 L400 350 L150 400 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Circuit de Monaco",
+        "country": "Monaco",
+        "lat": 43.7347,
+        "lon": 7.4206,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M50 450 Q150 100 450 300' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Circuit of the Americas",
+        "country": "United States",
+        "lat": 30.1346,
+        "lon": -97.6413,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 200 Q250 50 400 200 Q250 350 100 200' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Mount Panorama Circuit",
+        "country": "Australia",
+        "lat": -33.4390,
+        "lon": 149.5580,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M50 250 L200 50 L350 50 L450 250 L350 450 L200 450 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    }
+]
+[
+    {
+        "name": "Daytona International Speedway",
+        "country": "United States",
+        "lat": 29.1852,
+        "lon": -81.0705,
+        "svg": "<svg viewBox='0 0 500 500'><ellipse cx='250' cy='250' rx='200' ry='150' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Indianapolis Motor Speedway",
+        "country": "United States",
+        "lat": 39.7950,
+        "lon": -86.2347,
+        "svg": "<svg viewBox='0 0 500 500'><rect x='50' y='100' width='400' height='300' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Laguna Seca",
+        "country": "United States",
+        "lat": 36.5869,
+        "lon": -121.7553,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M50 250 Q200 50 450 200 Q200 450 50 250' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Brands Hatch",
+        "country": "United Kingdom",
+        "lat": 51.3569,
+        "lon": 0.2639,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 250 Q250 100 400 250 Q250 400 100 250' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Zandvoort",
+        "country": "Netherlands",
+        "lat": 52.3888,
+        "lon": 4.5400,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M150 150 Q250 50 350 150 Q250 450 150 150' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Hockenheimring",
+        "country": "Germany",
+        "lat": 49.3278,
+        "lon": 8.5658,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 150 L400 150 L300 400 L100 350 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Sebring International Raceway",
+        "country": "United States",
+        "lat": 27.4506,
+        "lon": -81.3483,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 300 Q250 100 400 300 Q250 400 100 300' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Circuit Gilles Villeneuve",
+        "country": "Canada",
+        "lat": 45.5017,
+        "lon": -73.5228,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 100 Q250 50 400 100 Q350 400 100 350 Z' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Kyalami",
+        "country": "South Africa",
+        "lat": -25.9894,
+        "lon": 28.0739,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M150 400 Q250 100 350 400 Q250 300 150 400' stroke='white' fill='none' stroke-width='5'/></svg>"
+    },
+    {
+        "name": "Shanghai International Circuit",
+        "country": "China",
+        "lat": 31.3389,
+        "lon": 121.2197,
+        "svg": "<svg viewBox='0 0 500 500'><path d='M100 250 Q250 50 400 250 Q250 450 100 250' stroke='white' fill='none' stroke-width='5'/></svg>"
+    }
+]
